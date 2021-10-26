@@ -1,5 +1,5 @@
 # AlphaScreen Inhibitor Screening Curve Fit
-Python package that reads Excel input file containing AlphaScreen data, produces sigmoid fit according to the following equation provided by GraphPad (non-open-source statistics software): 
+Python package that reads Excel input file containing AlphaScreen data, and produces a sigmoid fit according to the following equation provided by GraphPad (non-open-source statistics software): 
 
 <code>Y=100/(1+10^(X-LogIC50))</code>
 
