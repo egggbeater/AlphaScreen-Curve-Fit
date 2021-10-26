@@ -15,4 +15,5 @@ This code is intended to generate a single graph for each inhibitor used in a mu
 
 3. Ensure <code>Input.xlsx</code> and <code>AlphaScreen-Curve-Fit.ipynb</code> are in the same directory (same folder, not one in a folder and one in a subfolder) before running.
 4. Open <code>AlphaScreen-Curve-Fit.ipynb</code> in the IDE of your choice, hit Run, and generate graphs! Sample output below:
+
 ![image](https://user-images.githubusercontent.com/49679286/138866438-0db2b57a-4ac3-4567-80dd-1f8e8acca066.png)
