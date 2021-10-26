@@ -11,4 +11,4 @@ This code is intended to generate a single graph for each inhibitor used in a mu
 
 3. Ensure Input.xlsx and the program are in the same directory (same folder, not one in a folder and one in a subfolder) before running.
 4. Open the program in the IDE of your choice, and generate graphs! Sample output below:
-![sample out](https://user-images.githubusercontent.com/49679286/138838078-095018f4-5fc7-45ea-954b-8cfd1298152a.PNG)
+![image](https://user-images.githubusercontent.com/49679286/138866438-0db2b57a-4ac3-4567-80dd-1f8e8acca066.png)
