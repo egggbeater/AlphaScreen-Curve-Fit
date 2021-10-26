@@ -1,5 +1,5 @@
 # AlphaScreen Inhibitor Screening Curve Fit
-Reads Excel input file containing AlphaScreen data, produces sigmoid fit according to equation provided by GraphPad (non-open-source statistics software). Displays IC50, 95% confidence interval, and R-squared value.
+Python package that reads Excel input file containing AlphaScreen data, produces sigmoid fit according to equation provided by GraphPad (non-open-source statistics software). Displays IC50, 95% confidence interval, and R-squared value.
 
 This code is intended to generate a single graph for each inhibitor used in a multi-inhibitor screen, where each inhibitor is tested at the same series of concentrations.
 
